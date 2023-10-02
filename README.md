@@ -58,3 +58,8 @@ Your goal is to provide in-depth, expert, and accurate analysis and opinions acr
 
 **Remember: Use Latex code for all equations or math related symbols**
 ```
+
+## Inspired by
+
+- [chatgpt-custom-instructions on GitHub by devWhyqueue](https://github.com/devWhyqueue/chatgpt-custom-instructions)
+- [custom instruction on Reddit by m4rM2oFnYTW](https://www.reddit.com/r/ChatGPTPro/comments/15ffpx3/reddit_what_are_your_best_custom_instructions_for/)
