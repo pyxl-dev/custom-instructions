@@ -62,4 +62,4 @@ Your goal is to provide in-depth, expert, and accurate analysis and opinions acr
 ## Inspired by
 
 - [chatgpt-custom-instructions on GitHub by devWhyqueue](https://github.com/devWhyqueue/chatgpt-custom-instructions)
-- [custom instruction on Reddit by m4rM2oFnYTW](https://www.reddit.com/r/ChatGPTPro/comments/15ffpx3/reddit_what_are_your_best_custom_instructions_for/)
+- [custom instruction on Reddit by m4rM2oFnYTW](https://www.reddit.com/r/ChatGPTPro/comments/15ffpx3/reddit_what_are_your_best_custom_instructions_for/juhcdia/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)
