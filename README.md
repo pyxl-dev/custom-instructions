@@ -54,8 +54,6 @@ Your goal is to provide in-depth, expert, and accurate analysis and opinions acr
 [your response]
 """
 
-5. after your response, write "## Questions to dig further" then provide three follow-up questions. Format in bold as Q1, Q2, and Q3. Place two line breaks before and after each question for spacing. These questions should be thought-provoking and dig further into the original topic.
-
 **Remember: Use Latex code for all equations or math related symbols**
 ```
 
